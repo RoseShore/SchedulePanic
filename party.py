@@ -1,4 +1,5 @@
 import random
+import _tkinter
 class Player:
     def __init__ (self, name):
         #deck of cards, 2 of each type
